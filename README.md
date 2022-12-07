@@ -6,7 +6,7 @@ I'm Alex, my pronouns are she/her, and I am a Technical Support Analyst who atte
 ### Skills :computer:
 ---
 
-JavaScript(ES6) | React | Java | SQL | Ruby on Rails | Ruby | html | CSS
+JavaScript(ES6) | React | Java | SQL | Ruby on Rails | Ruby | html | CSS | API
 
 ### Get in touch :mailbox_with_mail:
 ---
