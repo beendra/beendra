@@ -13,4 +13,4 @@ JavaScript(ES6) | React | Java | SQL | Ruby on Rails | Ruby | html | CSS | API
 
 [LinkedIn](www.linkedin.com/in/alexandraricardel)
 
-[dev Blog](https://dev.to/beendra)
+
